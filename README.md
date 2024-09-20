@@ -1,1 +1,1 @@
-# machine-learning-zoomcap-hw
+# machine-learning-zoomcap-homework
